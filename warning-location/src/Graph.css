@@ -1,0 +1,19 @@
+/* See license.txt for terms of usage */
+
+.resizeable {
+  position: absolute;
+  left: 200px;
+  right: 10px;
+  top: 150px;
+  bottom: 10px;
+}
+
+.wide {
+  width: 800px;
+}
+
+.big {
+  position: relative;
+  width: 1070px;
+  height: 320px;
+}
