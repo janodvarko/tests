@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "dygraphs": "^2.1.0",
     "react": "^16.4.2",
     "react-c3js": "^0.1.20",
